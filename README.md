@@ -2,7 +2,7 @@
 A practical implementation of Communism; presented as an open-source card game that can be assembled in the span of about five minutes.
 
 
-Inspired by this post by [nyancrimew](https://www.tumblr.com/nyancrimew/747102390430367744/real-communism-has-never-been-tried-before-have?source=share), I'm attempting an experiment to prove the point.
+Inspired by this post by [nyancrimew](https://www.tumblr.com/nyancrimew/747102390430367744/real-communism-has-never-been-tried-before-have?source=share), I'm attempting an experiment to prove the point by offering up certain productive and useful
 
 ## Materials:
   - 1 Bic Pen
